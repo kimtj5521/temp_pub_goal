@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="pub_goal" type="pub_goal_node" name="pub_goal_node" output="screen">
+  </node> 
+</launch>
